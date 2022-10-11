@@ -1,3 +1,5 @@
+Tässä muutama koulussa tehty peliprojekti/Here's a couple projects made at school
+
 Pelasta joulu keräämällä kadonneet lahjapaketit/Save the Christmas by fetching the missing presents
 https://public.bc.fi/s2001140/SaveTheChristmas/WebGL/
 
